@@ -1,0 +1,6 @@
+pandas==2.3.1
+pybit==5.11.0
+dotenv==0.9.9
+numpy==2.3.1
+ta-lib==0.6.4
+matplotlib==3.10.3
